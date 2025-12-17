@@ -1,0 +1,7 @@
+18/12/2025
+07:07:55.000	
+DEBUG: Session key length: 103
+DEBUG: Retrieved decrypted password, length: 11
+DEBUG: First 2 chars of decrypted password: Sc
+Successfully connected to 192.168.50.99. Server: SOLARWINDS
+host = esky-nucsource = solarwinds_connection_testsourcetype = orion_health_check
